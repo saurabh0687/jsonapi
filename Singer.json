@@ -39,46 +39,7 @@
 			"name": "Diljit Dosanjh",
 			"photo": "https://st1.bollywoodlife.com/wp-content/uploads/2016/05/diljit-dosanjh.jpg"
 		}
-		    {
-			"name": "Kumar Sanu",
-			"photo": "https://images.indianexpress.com/2023/03/WhatsApp-Image-2023-03-21-at-4.15.09-PM.jpeg"
-		},
-		{
-			"name": "Lata Mangeskar",
-			"photo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/LataMangeshkar10.jpg"
-		},
-		{
-			"name": "Udit Narayan",
-			"photo": "https://yt3.googleusercontent.com/ytc/AGIKgqOtT05OOYHqiWWnIlhkq3nlV8xNy1TQnhvH79tI=s900-c-k-c0x00ffffff-no-rj"
-		}
-		{
-			"name": "Mohd Rafi",
-			"photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAxtVUUacO03SruF_JvIglOHocbpp-frfCYODRNg9APpkE4f8E"
-		},
-		{
-			"name": "Asha Bhosle",
-			"photo": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSGBZmxlypclUArpzCmh91arhafr4kJoynXBnBiuKJFkomO6PcgvNejoNzyjTrXxjDNX3sAzTbw3V0o0To"
-		},
-		{
-			"name": "Alka Yagini",
-			"photo": "https://a10.gaanacdn.com/gn_img/artists/DwPKOBbqVZ/DwPKOBbqVZ/size_xl_1516104380.webp"
-		},
-		{
-			"name": "Kishore Kumar",
-			"photo": "https://yt3.googleusercontent.com/VzKX7I0iD2eEHoWqk2drqOTFsPWX6hTGul0drSXXde8hWEcYNq7H_VdWHBC5RDawV_LoUBmD=s900-c-k-c0x00ffffff-no-rj"
-		},
-		{
-			"name": "Altaf Raza",
-			"photo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIl0yxt780eKKLhf8RXSznv0Cwmy1PmvbmwMvlzNzFedYpUKjD"
-		},
-		{
-			"name": "Rahat Fateh ali khan",
-			"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rahat_Fateh_Ali_Khan_%2814021588865%29_%28cropped%29.jpg/640px-Rahat_Fateh_Ali_Khan_%2814021588865%29_%28cropped%29.jpg"
-		},
-		{
-			"name": "Adnan Sami",
-			"photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Adnan_Sami_in_2016.jpg"
-		}
+		   
 
 	]
 }
